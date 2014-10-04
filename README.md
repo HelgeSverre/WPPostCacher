@@ -12,4 +12,6 @@ So I implemented a caching system that saves the generated list items in a file.
 
 Documentation on how to use this will be written later, the code is commented with PHPDoc so if you really want to check it out before I make the documentation, you should figure out how it works just by looking at it. :)
 
-Check example.php for reference, a live version of the example is available on http://test.helgesverre.com/wppostcacher/
+Checkout the index.php file for reference, a live version of the example is available on http://test.helgesverre.com/wppostcacher/
+
+Thanks.
